@@ -1,4 +1,4 @@
-# Awesome Icons
+# Awesome Icons [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome downloadable SVG/PNG/Font icon projects
 

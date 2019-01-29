@@ -9,7 +9,7 @@
 - [Logos](#logos)
 - [Special](#special)
 - [Other](#other)
-  - [CSS Only](#css-only)
+  - [CSS only](#css-only)
   - [Paid](#paid)
 
 
@@ -17,18 +17,18 @@
 
 General purpose icons used everywhere
 
-- [Byte Size Icons](https://github.com/danklammer/bytesize-icons#readme) ([Website](https://danklammer.com/bytesize-icons)) - Tiny style-controlled SVG iconset.
-- [Eva icons](https://github.com/akveo/eva-icons#readme) ([Website](https://akveo.github.io/eva-icons)) - A pack of more than 480 beautifully crafted Open Source icons.
-- [Evil icons](https://github.com/evil-icons/evil-icons#readme) ([Website](http://evil-icons.io)) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
-- [Feather](https://github.com/feathericons/feather#readme) ([Website](https://feathericons.com)) - Simply beautiful open source icons.
-- [Font Awesome](https://github.com/FortAwesome/Font-Awesome#readme) ([Website](https://fontawesome.com)) - The iconic SVG, font, and CSS toolkit.
-- [Ion icons](https://github.com/ionic-team/ionicons#readme) ([Website](https://ionicons.com)) - The premium icon font for Ionic Framework and web apps everywhere.
-- [Material design icons](https://github.com/google/material-design-icons#readme) ([Website](https://material.io/tools/icons)) - Material Design icons by Google.
-- [Octicons](https://github.com/primer/octicons#readme) ([Website](https://octicons.github.com)) - A scalable set of icons handcrafted with <3 by GitHub.
-- [Open Iconic](https://github.com/iconic/open-iconic#readme) ([Website](https://useiconic.com/open)) - Open Iconic is the open source sibling of Iconic.
+- [Byte Size Icons](https://github.com/danklammer/bytesize-icons#readme) - Tiny style-controlled SVG iconset. ([Website](https://danklammer.com/bytesize-icons))
+- [Eva icons](https://github.com/akveo/eva-icons#readme) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))
+- [Evil icons](https://github.com/evil-icons/evil-icons#readme) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. ([Website](http://evil-icons.io))
+- [Feather](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
+- [Font Awesome](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
+- [Ion icons](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
+- [Material design icons](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://material.io/tools/icons))
+- [Octicons](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
+- [Open Iconic](https://github.com/iconic/open-iconic#readme) - Open Iconic is the open source sibling of Iconic. ([Website](https://useiconic.com/open))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
-- Zondicons ([Website](http://www.zondicons.com)) - A set of free premium SVG icons for you to use on your digital products.
+- Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
 
 
 ## Logos
@@ -37,9 +37,9 @@ Logos of different brands or companies or technologies
 
 - [Browser Logos](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
 - [Cryptocoins](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
-- [Cryptocurrency icons](https://github.com/atomiclabs/cryptocurrency-icons#readme) ([Website](http://cryptoicons.co)) - A set of icons for all the main cryptocurrencies and altcoins.
-- [Dev icons](https://github.com/vorillaz/devicons#readme) ([Website](http://vorillaz.github.io/devicons)) - An iconic font made for developers.
-- [Simple icons](https://github.com/simple-icons/simple-icons#readme) ([Website](https://simpleicons.org)) - Free SVG icons for popular brands.
+- [Cryptocurrency icons](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
+- [Dev icons](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
+- [Simple icons](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
 
 
 ## Special
@@ -56,8 +56,8 @@ Icons that are not general or logos, but something special
 
 Icons made out of CSS only (that are not downloadable)
 
-- [cssicon](https://github.com/wentin/cssicon#readme) ([Website](https://cssicon.space)) - Icon set made with pure css code, no dependencies, "grab and go" icons.
-- [icono](https://github.com/saeedalipoor/icono#readme) ([Website](https://saeedalipoor.github.io/icono)) - One tag One icon, no font or svg, pure CSS.
+- [cssicon](https://github.com/wentin/cssicon#readme) - Icon set made with pure css code, no dependencies, "grab and go" icons. ([Website](https://cssicon.space))
+- [icono](https://github.com/saeedalipoor/icono#readme) - One tag One icon, no font or svg, pure CSS. ([Website](https://saeedalipoor.github.io/icono))
 
 ### Paid
 
@@ -69,4 +69,3 @@ Not open-source/free, but still awesome enough
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-

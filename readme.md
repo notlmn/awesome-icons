@@ -1,7 +1,8 @@
 # Awesome Icons [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome downloadable SVG/PNG/font icon projects
+> A curated list of awesome downloadable SVG/PNG/Font icon projects
 
+![Banner](./media/banner.png)
 
 ## Contents
 
@@ -68,4 +69,4 @@ Not open-source/free, but still awesome enough
 
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

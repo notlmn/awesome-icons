@@ -16,7 +16,7 @@
 
 ## General
 
-General purpose icons used everywhere
+General purpose icons used everywhere.
 
 - [Byte Size Icons](https://github.com/danklammer/bytesize-icons#readme) - Tiny style-controlled SVG iconset. ([Website](https://danklammer.com/bytesize-icons))
 - [Eva icons](https://github.com/akveo/eva-icons#readme) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))
@@ -34,7 +34,7 @@ General purpose icons used everywhere
 
 ## Logos
 
-Logos of different brands or companies or technologies
+Logos of different brands or companies or technologies.
 
 - [Browser Logos](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
 - [Cryptocoins](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
@@ -45,7 +45,7 @@ Logos of different brands or companies or technologies
 
 ## Special
 
-Icons that are not general or logos, but something special
+Icons that are not general or logos, but something special.
 
 - [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
 - [Mapsicon](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
@@ -55,14 +55,14 @@ Icons that are not general or logos, but something special
 
 ### CSS only
 
-Icons made out of CSS only (that are not downloadable)
+Icons made out of CSS only (that are not downloadable).
 
 - [cssicon](https://github.com/wentin/cssicon#readme) - Icon set made with pure css code, no dependencies, "grab and go" icons. ([Website](https://cssicon.space))
-- [icono](https://github.com/saeedalipoor/icono#readme) - One tag One icon, no font or svg, pure CSS. ([Website](https://saeedalipoor.github.io/icono))
+- [icono](https://github.com/saeedalipoor/icono#readme) - Pure CSS, class based icon pack. ([Website](https://saeedalipoor.github.io/icono))
 
 ### Paid
 
-Not open-source/free, but still awesome enough
+Not open-source/free, but still awesome enough.
 
 - [Heroicons](https://www.heroicons.com) - Unique set of icons for your marketing website.
 - [Iconic](https://useiconic.com) - The definitive icon set designed for the modern web.

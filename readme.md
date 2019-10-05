@@ -32,6 +32,12 @@ General purpose icons used everywhere.
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
+- Flaticon - Thousands of free icons in the largest database of free vector icons! ([Website](https://flaticon.com))
+- TheNoun - Icon for everything.([Website](https://thenounproject.com/))
+
+## Icon Organizers
+- Nuceloapp - A beautiful library of 28502 icons, and a powerful application to collect, customize and export all your icons. ([Website](https://nucleoapp.com))
+- Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
 
 
 ## Logos

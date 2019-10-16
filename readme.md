@@ -22,22 +22,18 @@ General purpose icons used everywhere.
 - [Eva icons](https://github.com/akveo/eva-icons#readme) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))
 - [Evil icons](https://github.com/evil-icons/evil-icons#readme) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. ([Website](http://evil-icons.io))
 - [Feather](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
+- Flaticon - The largest database of free vector icons. ([Website](https://flaticon.com))
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
 - [Ion icons](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
 - [Material design icons](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://material.io/tools/icons))
 - [Octicons](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 - [Open Iconic](https://github.com/iconic/open-iconic#readme) - Open Iconic is the open source sibling of Iconic. ([Website](https://useiconic.com/open))
+- Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
 - [Unicons](https://github.com/iconscout/unicons) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
-- Flaticon - Thousands of free icons in the largest database of free vector icons! ([Website](https://flaticon.com))
-- TheNoun - Icon for everything.([Website](https://thenounproject.com/))
-
-## Icon Organizers
-- Nuceloapp - A beautiful library of 28502 icons, and a powerful application to collect, customize and export all your icons. ([Website](https://nucleoapp.com))
-- Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
 
 
 ## Logos
@@ -74,6 +70,7 @@ Not open-source/free, but still awesome enough.
 
 - [Heroicons](https://www.heroicons.com) - Unique set of icons for your marketing website.
 - [Iconic](https://useiconic.com) - The definitive icon set designed for the modern web.
+- [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
 
 
 ## License

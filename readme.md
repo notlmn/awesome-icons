@@ -30,6 +30,7 @@ General purpose icons used everywhere.
 - [Material design icons](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://material.io/tools/icons))
 - [Octicons](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 - [Open Iconic](https://github.com/iconic/open-iconic#readme) - Open Iconic is the open source sibling of Iconic. ([Website](https://useiconic.com/open))
+- [Picon](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
 - Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
 - [The Noun Project](https://thenounproject.com/) - Icons for everything, Over 2 Million curated icons, created by a global community.

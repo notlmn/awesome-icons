@@ -33,6 +33,7 @@ General purpose icons used everywhere.
 - [Picon](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
 - Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
+- [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [The Noun Project](https://thenounproject.com/) - Icons for everything, Over 2 Million curated icons, created by a global community.
 - [Unicons](https://github.com/iconscout/unicons) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.

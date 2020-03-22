@@ -18,6 +18,7 @@
 
 General purpose icons used everywhere.
 
+- [Bootstrap Icons](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
 - [Boxicons](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
 - [Byte Size Icons](https://github.com/danklammer/bytesize-icons#readme) - Tiny style-controlled SVG iconset. ([Website](https://danklammer.com/bytesize-icons))
 - [Eva icons](https://github.com/akveo/eva-icons#readme) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))

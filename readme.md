@@ -26,6 +26,7 @@ General purpose icons used everywhere.
 - [Evil icons](https://github.com/evil-icons/evil-icons#readme) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. ([Website](http://evil-icons.io))
 - [Feather](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
 - Flaticon - The largest database of free vector icons. ([Website](https://flaticon.com))
+- [Fluent System Icons](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
 - [Heroicons](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
 - ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))

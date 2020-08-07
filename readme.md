@@ -54,6 +54,7 @@ Logos of different brands or companies or technologies.
 - [Cryptocoins](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
 - [Cryptocurrency icons](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
 - [Dev icons](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
+- [Devicon](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 - [Simple icons](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
 
 

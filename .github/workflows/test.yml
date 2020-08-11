@@ -1,0 +1,15 @@
+name: Test
+
+on:
+  - pull_request
+  - push
+
+jobs:
+  Lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - run: npm install
+    - run: npm test

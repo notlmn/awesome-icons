@@ -44,7 +44,7 @@ General purpose icons used everywhere.
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
-- [EOS Icons](https://icons.eosdesignsystem.com/) | A pixel-perfect, open source iconic font available as ligature and SVG.
+- [EOS Icons](https://icons.eosdesignsystem.com/) - A pixel-perfect, open source iconic font available as ligature and SVG.
 
 ## Logos
 

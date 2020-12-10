@@ -29,12 +29,14 @@ General purpose icons used everywhere.
 - [Fluent System Icons](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
 - [Heroicons](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
+- [IconPark](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
 - ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 - [Ion icons](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
 - [Material design icons](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://material.io/tools/icons))
 - [Octicons](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 - [Open Iconic](https://github.com/iconic/open-iconic#readme) - Open Iconic is the open source sibling of Iconic. ([Website](https://useiconic.com/open))
 - [Picon](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
+- [Remix Icon](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 - Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.

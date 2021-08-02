@@ -45,7 +45,7 @@ General purpose icons used everywhere.
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
-- [Tilda Icons](https://tilda.cc/free-icons)- Tilda Icons, is a website full of free icons for landing pages and more.
+- [Tilda Icons](https://tilda.cc/free-icons) - Tilda Icons, is a website full of free icons for landing pages and more.
 
 ## Logos
 

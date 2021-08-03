@@ -41,11 +41,11 @@ General purpose icons used everywhere.
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Website](https://github.com/tabler/tabler-icons))
 - [Teenyicons](https://github.com/teenyicons/teenyicons) - 1000+ MIT-licensed SVG icons that easily fit in very small spaces :pinching_hand: and maintain a crisp look :sparkles:. ([Website](https://teenyicons.com))
 - [The Noun Project](https://thenounproject.com/) - Icons for everything, Over 2 Million curated icons, created by a global community. ([Website](https://thenounproject.com/))
+- [Tilda Icons](https://tilda.cc/free-icons) - Tilda Icons, is a website full of free icons for landing pages and more. ([Website](https://tilda.cc/free-icons))
 - [Unicons](https://github.com/iconscout/unicons) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code. ([Website](https://github.com/microsoft/vscode-icons#readme))
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS. ([Website](https://github.com/erikflowers/weather-icons#readme))
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
-- [Tilda Icons](https://tilda.cc/free-icons) - Tilda Icons, is a website full of free icons for landing pages and more. ([Website](https://tilda.cc/free-icons))
 
 ## Logos
 

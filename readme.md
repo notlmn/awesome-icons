@@ -58,6 +58,7 @@ Logos of different brands or companies or technologies.
 - [Dev icons](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
 - [Devicon](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 - [Simple icons](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
+- [VectorLogoZone](https://github.com/VectorLogoZone/vectorlogozone) - Consistently sized/formated SVG logos.  ([Website](https://www.vectorlogo.zone/))
 
 ## Special
 
@@ -67,6 +68,9 @@ Icons that are not general or logos, but something special.
 - [Mapsicon](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
 
 ## Other
+
+- [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine.  ([Engine Source](https://github.com/VectorLogoZone/logosearch), [Index source](https://github.com/VectorLogoZone/git-svg-icons/blob/main/data/iconsearch.yaml))
+- [LogoSear.ch](https://logosear.ch/search.html) - SVG logo search engine.  ([Engine Source](https://github.com/VectorLogoZone/logosearch), [Index source](https://github.com/VectorLogoZone/git-svg-icons/blob/main/data/logosearch.yaml))
 
 ### CSS only
 

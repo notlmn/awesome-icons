@@ -39,7 +39,7 @@ General purpose icons used everywhere.
 - [Remix Icon](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 - Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
-- [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Website](https://tabler-icons.io))
 - [Teenyicons](https://github.com/teenyicons/teenyicons) - 1000+ MIT-licensed SVG icons that easily fit in very small spaces :pinching_hand: and maintain a crisp look :sparkles:. ([Website](https://teenyicons.com))
 - [The Noun Project](https://thenounproject.com/) - Icons for everything, Over 2 Million curated icons, created by a global community.
 - [Tilda Icons](https://tilda.cc/free-icons) - Tilda Icons, is a website full of free icons for landing pages and more.

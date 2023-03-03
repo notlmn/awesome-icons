@@ -80,7 +80,6 @@ Icons made out of CSS only (that are not downloadable).
 
 Not open-source/free, but still awesome enough.
 
-- [Heroicons](https://www.heroicons.com) - Unique set of icons for your marketing website.
 - [Iconic](https://useiconic.com) - The definitive icon set designed for the modern web.
 - [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
 

@@ -26,6 +26,7 @@ General purpose icons used everywhere.
 - [Feather](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
 - Flaticon - The largest database of free vector icons. ([Website](https://flaticon.com))
 - [Fluent System Icons](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
+- [Flowbite Icons](https://flowbite.com/icons/) - Free and open-source collection of 430+ solid and outline icons built for Tailwind CSS and Figma.
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
 - [Heroicons](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
 - [IconPark](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))

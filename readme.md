@@ -67,6 +67,7 @@ Icons that are not general or logos, but something special.
 
 - [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
 - [Mapsicon](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
+- [IconicFonts](https://github.com/iconicFonts/if) - Over **55,000** icons from **43** different sets, available as a single font or separate fonts per set.
 
 ## Other
 

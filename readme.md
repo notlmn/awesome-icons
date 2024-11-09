@@ -60,7 +60,7 @@ Logos of different brands or companies or technologies.
 - [Cryptocurrency icons](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
 - [Dev icons](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
 - [Devicon](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
-- [Simple icons](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
+- [Simple icons](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org/))
 - [VectorLogoZone](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
 - [Web3 Icons](https://github.com/0xa3k5/web3icons#readme) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 
@@ -70,7 +70,7 @@ Icons that are not general or logos, but something special.
 
 - [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
 - [Mapsicon](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
-- [IconicFonts](https://github.com/iconicFonts/iconic-fonts#readme) - Over 50 pre-patched fonts featuring 60k icons as glyphs.
+- [IconicFonts](https://github.com/iconicFonts/iconic-fonts#readme) - Over 50 pre-patched fonts featuring 60k icons as glyphs.
 
 ## Other
 

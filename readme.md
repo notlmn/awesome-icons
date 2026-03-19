@@ -48,6 +48,7 @@ General purpose icons used everywhere.
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
+- [Cascade Icons](https://designsurface.dev/cascade) – Icons representing CSS properties and their values. For the growing number of new visual editors that produce code rather than vectors.
 
 ## Logos
 

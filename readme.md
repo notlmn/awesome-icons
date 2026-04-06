@@ -4,6 +4,7 @@
 
 ![Banner](./media/banner.png)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for icon library workflow orchestration, automated SVG asset management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [General](#general)

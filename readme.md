@@ -43,6 +43,7 @@ General purpose icons used everywhere.
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Website](https://tabler-icons.io))
 - [Teenyicons](https://github.com/teenyicons/teenyicons) - 1000+ MIT-licensed SVG icons that easily fit in very small spaces :pinching_hand: and maintain a crisp look :sparkles:. ([Website](https://teenyicons.com))
 - The Noun Project - Icons for everything, Over 2 Million curated icons, created by a global community. ([Website](https://thenounproject.com/))
+- Thridy - 13,000+ free 3D icons in one consistent style, downloadable as HD transparent PNGs with no signup or attribution required. ([Website](https://thridy.com))
 - Tilda Icons - Tilda Icons, is a website full of free icons for landing pages and more. ([Website](https://tilda.cc/free-icons))
 - [Unicons](https://github.com/iconscout/unicons#readme) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.

@@ -33,7 +33,7 @@ General purpose icons used everywhere.
 - [IconPark](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
 - ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 - [Ion icons](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
-- [Line Icons](https://mikroconsult.gumroad.com/l/line-icons) - 70 original SVG + PNG marks drawn on a 24px grid with one stroke weight.
+- [Line Icons](https://mikroconsult.gumroad.com/l/line-icons) - 82 original SVG + PNG marks drawn on a 24px grid with one stroke weight.
 - [Material design icons](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://fonts.google.com/icons))
 - [Octicons](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 - [Picon](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))

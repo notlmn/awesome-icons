@@ -80,12 +80,6 @@ Icons made out of CSS only (that are not downloadable).
 - [cssicon](https://github.com/wentin/cssicon#readme) - Icon set made with pure css code, no dependencies, "grab and go" icons. ([Website](https://cssicon.space))
 - [icono](https://github.com/saeedalipoor/icono#readme) - Pure CSS, class based icon pack. ([Website](https://saeedalipoor.github.io/icono))
 
-### Paid
-
-Not open-source/free, but still awesome enough.
-
-- [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
-
 ### Frameworks
 
 Usually a library or framework that lets you import other icon sets.

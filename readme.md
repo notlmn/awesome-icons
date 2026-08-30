@@ -54,6 +54,7 @@ General purpose icons used everywhere.
 Logos of different brands or companies or technologies.
 
 - [Browser Logos](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
+- [Car Brand Logos](https://github.com/vehiclespecs/brand-logos#readme) - 184 automotive manufacturer logos in SVG and PNG, from mass-market makes to supercar and EV-only brands. ([Website](https://vehiclespecs.io))
 - [Cryptocoins](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
 - [Cryptocurrency icons](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
 - [Dev icons](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))

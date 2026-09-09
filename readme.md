@@ -39,6 +39,7 @@ General purpose icons used everywhere.
 - [Radix Icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the WorkOS team. ([Website](https://www.radix-ui.com/icons/))
 - [Remix Icon](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 - Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
+- [Slate Free Icons](https://github.com/evanwork34/slate-free-svg-icons) - A free 10-icon SVG sample pack, no attribution required, for personal and commercial use.
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Website](https://tabler-icons.io))
 - [Teenyicons](https://github.com/teenyicons/teenyicons) - 1000+ MIT-licensed SVG icons that easily fit in very small spaces :pinching_hand: and maintain a crisp look :sparkles:. ([Website](https://teenyicons.com))

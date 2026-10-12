@@ -11,7 +11,6 @@
 - [Special](#special)
 - [Other](#other)
   - [CSS only](#css-only)
-  - [Paid](#paid)
   - [Frameworks](#frameworks)
 
 ## General

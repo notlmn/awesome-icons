@@ -47,6 +47,7 @@ General purpose icons used everywhere.
 - [Unicons](https://github.com/iconscout/unicons#readme) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
+- [Xero Emoji](https://github.com/maximusmaximus/xeroemoji#readme) - Original glossy emoji set covering all 3,963 Unicode 18.0 emoji as SVG and PNG. ([Website](https://maximusmaximus.github.io/xeroemoji/))
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
 
 ## Logos

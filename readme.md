@@ -70,6 +70,7 @@ Icons that are not general or logos, but something special.
 - [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
 - [Mapsicon](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
 - [IconicFonts](https://github.com/iconicFonts/iconic-fonts#readme) - Over 50 pre-patched fonts featuring 60k icons as glyphs.
+- movin.design icons - Animated SVG icon styles you recolour live and download, plus open-source animated icon sets to copy as SVG. ([Website](https://movin.design/icons/))
 
 ## Other
 

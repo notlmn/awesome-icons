@@ -84,6 +84,7 @@ Icons made out of CSS only (that are not downloadable).
 
 Usually a library or framework that lets you import other icon sets.
 
+- [favicons](https://github.com/peleda-app/favicons#readme) - Free, self-hostable service that serves any website's icon or any icon from 17 bundled sets (Simple Icons, Devicon, Dashboard Icons and more) as a sanitized SVG, with React and Vue components and a Svelte action. ([Website](https://favicons.page))
 - Iconbuddy - A search engine to browse open source svg icons. ([Website](http://iconbuddy.com))
 - [Iconify Deign](https://github.com/iconify/iconify#readme) - Most popular icon sets in one framework containg over 200,000 open source vector icons. ([Website](https://iconify.design))
 - [React Icons](https://github.com/react-icons/react-icons#reamde) - Popular icon sets created especially for React projects. ([Website](https://react-icons.github.io/react-icons/))

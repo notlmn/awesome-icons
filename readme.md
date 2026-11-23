@@ -34,6 +34,7 @@ General purpose icons used everywhere.
 - ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 - [Ion icons](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
 - [Material design icons](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://fonts.google.com/icons))
+- [NoviAir](https://github.com/Novissium/NoviAir#readme) - 2,000+ hand-built line icons in two styles (regular and light) on a 24 px grid, stroke-editable, CC BY 4.0. ([Website](https://iconsouk.com/noviair/))
 - [Octicons](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 - [Picon](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
 - [Radix Icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the WorkOS team. ([Website](https://www.radix-ui.com/icons/))
